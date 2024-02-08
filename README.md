@@ -2,7 +2,7 @@
 
 ## Tecnologias utilizadas
 
-- HTTML
+- HTML
 - CSS
 - JavaScript
 - Github
